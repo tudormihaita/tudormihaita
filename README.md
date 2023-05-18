@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tudormihaita
+- 👋 Hi there, I’m @tudormihaita.
 Currently studying **_Computer Science_** at **_Babeș-Bolyai University_** in **_Cluj-Napoca, Romania_**. **Software Engineering** enthusiast. Aspiring to become a **Digital Nomad**.
 <div id="header" align="center">
   <!--
@@ -21,11 +21,11 @@ Currently studying **_Computer Science_** at **_Babeș-Bolyai University_** in *
   <h1>
  </div>
     
-# 📈: My Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tudormihaita&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+# 💻: My Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tudormihaita&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudormihaita&layout=compact&theme=radical)
   
-  
+<!-- <br> -->  
 <!--
 **tudormihaita/tudormihaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
