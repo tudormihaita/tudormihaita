@@ -21,15 +21,21 @@ Currently studying **_Computer Science_** at **_Babeș-Bolyai University_** in *
   <h1>
  </div>
     
-# 💻 My Stats 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tudormihaita&theme=dark&background=000000)](https://git.io/streak-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudormihaita&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+# 💻 My Stats
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tudormihaita&theme=omni" alt="mystreak"/>
+</div>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tudormihaita&theme=dark&background=000000)](https://git.io/streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudormihaita&theme=omni&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudormihaita&layout=compact&theme=radical) -->
   
 <!-- <br> -->  
-<!--
-**tudormihaita/tudormihaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **tudormihaita/tudormihaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
