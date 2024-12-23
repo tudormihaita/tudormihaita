@@ -5,7 +5,9 @@ Currently studying **_Computer Science_** at **_Babeș-Bolyai University_** in *
   <img src="https://github.com/tudormihaita/tudormihaita/assets/117765802/ae5cb70c-a3d6-4c90-bcef-63a3976192dc"/>
   -->
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ix6k2c7rexeazvzfvwcv3iqz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ix6k2c7rexeazvzfvwcv3iqz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+-->
 
 </div>
 
